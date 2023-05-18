@@ -63,6 +63,8 @@
 
   	const app = express()
   	const port = 3000
+    const usersList = require("./userData");
+
 
   	app.use(express.json()) // This line is necessary for Express to be able to parse JSON in request body's
 
