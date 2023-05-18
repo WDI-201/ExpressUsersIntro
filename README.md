@@ -5,7 +5,7 @@
 - Create a simple express server capable of performing non-persisted CRUD (Create, Read, Update, Delete) operations.
 - The server should be capable of creating a new user via POST request
 - The server should be capable of responding with the entire list of users
-- The Server should be capable of responding with a single user that has been looped up via phone number
+- The Server should be capable of responding with a single user that has been looked up via phone number
 - The server should be capable of responding with several users that has been looked up via country
 - The server should be capable of updating a user with new user data, use email to find the user
 - The server should be capable of deleting a user that has been looked up via cell number
